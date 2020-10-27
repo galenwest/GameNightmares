@@ -1,5 +1,7 @@
 *.iml
+.vs
 .DS_Store
 /Library
 /Temp
 /Logs
+/obj
