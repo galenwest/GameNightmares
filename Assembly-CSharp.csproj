@@ -67,6 +67,7 @@
     <Compile Include="Assets\IDo\Scripts\Enemy\_EnemyHealth.cs" />
     <Compile Include="Assets\IDo\Scripts\Enemy\_EnemyMovement.cs" />
     <Compile Include="Assets\IDo\Scripts\Managers\_EnemyManager.cs" />
+    <Compile Include="Assets\IDo\Scripts\Managers\_GameOverManager.cs" />
     <Compile Include="Assets\IDo\Scripts\Managers\_ScoreManager.cs" />
     <Compile Include="Assets\IDo\Scripts\Player\_CameraFollow.cs" />
     <Compile Include="Assets\IDo\Scripts\Player\_PlayerHealth.cs" />
